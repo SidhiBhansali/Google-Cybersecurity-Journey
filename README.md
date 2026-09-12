@@ -13,7 +13,7 @@ my own reference, but also to show my learning journey.
 
 ## Courses
 1. [Foundations of Cybersecurity](courses/01-foundations-of-cybersecurity.md)
-2. Play It Safe: Manage Security Risks
+2. [Play It Safe: Manage Security Risks](courses/02-Play-it-safe-manage-security-risks.md)
 3. Connect and Protect: Networks and Network Security
 4. Tools of the Trade: Linux and SQL
 5. Assets, Threats, and Vulnerabilities
