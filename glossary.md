@@ -1,6 +1,10 @@
 # Glossary
 
-Plain-language definitions of cybersecurity terms as I learn them.
+Plain-language definitions of cybersecurity terms as I learn them, organized by course.
+
+---
+
+## Course 1: Foundations of Cybersecurity
 
 **Adversarial artificial intelligence (AI)** - A technique that manipulates 
 AI and machine learning (ML) technology to conduct attacks more efficiently.
@@ -191,7 +195,7 @@ gain access to sensitive data.
 **Worm** - Malware that duplicates and spreads itself across systems 
 without needing to be downloaded by a user.
 
-## Social Engineering Principles (why it works)
+### Social Engineering Principles (why it works)
 - **Authority** - impersonating people with power
 - **Intimidation** - bullying/persuading victims
 - **Consensus/Social proof** - implying "everyone else did it"
@@ -199,3 +203,78 @@ without needing to be downloaded by a user.
 - **Familiarity** - faking an emotional connection
 - **Trust** - building a fake relationship over time
 - **Urgency** - pushing quick, unquestioning responses
+
+---
+
+## Course 2: Play It Safe - Manage Security Risks
+
+**Asset** - Anything an organization considers valuable (data, hardware, 
+software, people).
+
+**Attack vector** - The path or method a threat actor uses to penetrate 
+security defenses.
+
+**Authentication** - The process of verifying who someone is.
+
+**Authorization** - Granting access to specific resources in a system.
+
+**Availability** - The idea that data is accessible to those who are 
+authorized to use it.
+
+**Biometrics** - Unique physical characteristics (fingerprint, face, etc.) 
+used to verify a person's identity.
+
+**Business continuity** - An organization's ability to maintain everyday 
+productivity by establishing risk/disaster recovery plans.
+
+**Confidentiality** - The idea that only authorized users can access 
+specific assets or data.
+
+**Cyber Threat Framework (CTF)** - A shared vocabulary, developed by the 
+U.S. government, for describing and communicating cyber threat activity.
+
+**Encryption** - The process of converting data from a readable format to 
+an encoded format.
+
+**External threat** - Anything outside the organization that has the 
+potential to harm organizational assets.
+
+**Integrity** - The idea that data is correct, authentic, and reliable.
+
+**ISO/IEC 27001** - An internationally recognized framework that helps 
+organizations manage the security of assets such as financial 
+information, IP, and employee data.
+
+**Least privilege (principle of)** - Granting users only the minimal 
+access/authorization required to complete a task.
+
+**Log** - A record of events that occur within an organization's systems.
+
+**NIST RMF steps** - The seven-step process: Prepare → Categorize → 
+Select → Implement → Assess → Authorize → Monitor.
+
+**OWASP (Open Web Application Security Project)** - A non-profit 
+organization focused on improving software security, known for its "Top 
+10" list of common web application risks.
+
+**Playbook** - A manual that provides a predefined, up-to-date list of 
+steps to perform when responding to an incident.
+
+**Risk** - Anything that can impact the confidentiality, integrity, or 
+availability of an asset. Roughly: *risk = likelihood of a threat*.
+
+**Risk mitigation** - Having the right procedures/rules in place to 
+quickly reduce the impact of a risk, like a breach.
+
+**Security audit** - A review of an organization's security controls, 
+policies, and procedures against a set of expectations.
+
+**SIEM (Security Information and Event Management)** - An application 
+that collects and analyzes log data to monitor critical activities in an 
+organization.
+
+**SOAR (Security Orchestration, Automation, and Response)** - A 
+collection of applications, tools, and workflows that use automation to 
+respond to security events.
+
+**Vulnerability** - A weakness that can be exploited by a threat.
